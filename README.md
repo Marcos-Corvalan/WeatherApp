@@ -1,2 +1,2 @@
 # WeatherApp
-Repositorio donde se encuentra mi applicacion
+Repositorio donde se encuentra mi aplicacion
